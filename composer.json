@@ -1,0 +1,15 @@
+{
+  "name": "user/good",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Adil Bendaoui",
+      "email": "90851562+Abendaoui@users.noreply.github.com"
+    }
+  ],
+  "require": {}
+}
